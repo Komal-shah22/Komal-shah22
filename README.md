@@ -15,7 +15,7 @@
   
 ### Connect with me:
 <div id="badges">
-  <a href="">
+  <a href="https://github.com/Komal-shah22">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="">
@@ -35,10 +35,10 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,css,html,github,git,JavaScript,typescript,figma,xd&perline=5)](https://skillicons.dev)
 
-![komal shah GitHub stats]()
+![komal shah GitHub stats](https://github.com/Komal-shah22)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 
 
 <br>
-⭐️ From [KOMAL SHAH]
+⭐️ From [KOMAL SHAH](https://github.com/Komal-shah22)
