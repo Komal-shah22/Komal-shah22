@@ -27,7 +27,7 @@
    <a href="">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-   <a href="www.linkedin.com/in/komal-shah-0b162a296">
+   <a href="https://www.linkedin.com/in/ADoAAEejzgUBpeHihM568cXRoMJQ-9SOBUApwuQ/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -41,4 +41,4 @@
 
 
 <br>
-⭐️ From [KOMAL SHAH](https://github.com/Komal-shah22)
+⭐️ From [KOMAL SHAH](https://www.linkedin.com/in/ADoAAEejzgUBpeHihM568cXRoMJQ-9SOBUApwuQ/)
