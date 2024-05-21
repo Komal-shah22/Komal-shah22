@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F71F54&center=true&random=false&width=440&height=59&lines=Hi%2C+I'm+Komal;Passionate+to+be+a+Successful+Developer;Quick+Learner;Always+Learning+New+Things;Currently+Learning+Advanced+Programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=blue&center=true&random=false&width=440&height=59&lines=Hi%2C+I'm+Komal;Passionate+to+be+a+Successful+Developer;Quick+Learner;Always+Learning+New+Things;Currently+Learning+Advanced+Programming)](https://git.io/typing-svg)
 
 
 
