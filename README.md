@@ -1,48 +1,53 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=blue&center=true&random=false&width=440&height=59&lines=Hi%2C+I'm+Komal;Passionate+to+be+a+Successful+Developer;Quick+Learner;Always+Learning+New+Things;Currently+Learning+Advanced+Programming)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=blue&center=true&random=false&width=440&height=59&lines=Hi%2C+I'm+Komal+Shah;Passionate+Developer;Quick+Learner;Always+Exploring+New+Technologies;Currently+Mastering+TypeScript+%26+Modern+Python)
 
+---
 
+<h1 align="center">Hi 👋, I'm Komal Shah</h1>
 
-### Hi there 👋
+<p align="center">
+  🔭 Currently enrolled in <strong>Governor Sindh Initiative For Generative AI, Web 3.0 & Metaverse</strong><br>
+  🌱 Currently mastering <strong>TypeScript</strong> and <strong>Modern Python</strong><br>
+  👯 Open to collaborations on exciting development projects<br>
+  💬 Ask me about <strong>TypeScript, React, Next.js, and Python</strong><br>
+  📫 Reach me at: <a href="mailto:komalfareed93@gmail.com">komalfareed93@gmail.com</a><br>
+  ⚡ Fun Fact: Always up for learning something new! 🚀
+</p>
 
-<h1 align="center">Hi 👋, I'm KOMAL SHAH</h1>
-- 🔭 I’m currently enrolled in Governor Sindh Initiative For Gernative Al web3.0 And Metaverse ...<br>
-- 🌱 I’m currently learning Typescript And Modern Python <br>
-- 👯 I’m looking to collaborate on ...<br>
-- 🤔 I’m looking for help with ...<br>
-- 💬 Ask me about ...<br>
-- 📫 How to reach me: Komalfareed93@gmail.com<br>
-- 😄 Pronouns: ...<br>
-- ⚡ Fun fact: ...<br>
- 
+---
 
-
-  
-### Connect with me:
-<div id="badges">
+## 🌍 Connect with me:
+<p align="center">
   <a href="https://github.com/Komal-shah22">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="GitHub" />
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.instagram.com/mirrordoll3?igsh=MWZ3bXB5NGpqOHRyeg==">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-   <a href="https://www.instagram.com/mirrordoll3?igsh=MWZ3bXB5NGpqOHRyeg==">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://www.linkedin.com/in/komal-shah">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-   <a href="">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+</p>
+
+---
+
+## 🚀 Languages and Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,python,flutter,css,html,github,git,figma,xd&perline=5" alt="Skills" />
   </a>
-   <a href="https://www.linkedin.com/in/ADoAAEejzgUBpeHihM568cXRoMJQ-9SOBUApwuQ/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+</p>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,css,html,github,git,JavaScript,typescript,figma,xd&perline=5)](https://skillicons.dev)
+---
 
-![komal shah GitHub stats](https://github.com/Komal-shah22)
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Komal-shah22&show_icons=true&theme=radical" alt="Komal's GitHub Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komal-shah22&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
+---
 
-<br>
-⭐️ From [KOMAL SHAH](https://www.linkedin.com/in/ADoAAEejzgUBpeHihM568cXRoMJQ-9SOBUApwuQ/)
+⭐️ From [Komal Shah](https://www.linkedin.com/in/komal-shah/) 🚀
