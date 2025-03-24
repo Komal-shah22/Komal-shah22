@@ -5,7 +5,7 @@
 # 👋 Hello, I'm Komal Shah
 
 🚀 Aspiring Full-Stack Developer | Passionate about Cutting-Edge Technologies  
-🔭 Currently enrolled in **Governor Sindh Initiative For Generative AI, Web 3.0 & Metaverse**  
+🔭 Currently enrolled in **Governor Sindh Initiative For Generative AI, Web 3.0 & Metaverse** and **PIAIC (Presidential Initiative for Artificial Intelligence & Computing)**  
 🌱 Mastering **TypeScript, Next.js, React.js, and Modern Python**  
 🎯 Focused on building scalable, high-performance applications  
 👯 Open to collaborating on innovative and impactful projects  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🌐 Connect with Me:
+###  Connect with Me:
 <a href="https://github.com/Komal-shah22">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
@@ -28,12 +28,12 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools:
+### Tech Stack & Tools:
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,html,css,nextjs,react,nodejs,git,github,python,figma&perline=6)](https://skillicons.dev)
 
 ---
 
-## 📊 GitHub Analytics:
+### GitHub Analytics:
 <img src="https://github-readme-stats.vercel.app/api?username=Komal-shah22&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Komal-shah22&theme=radical" alt="GitHub Streak" />
